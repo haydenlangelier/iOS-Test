@@ -1,0 +1,6 @@
+framework module Pods_TM_CT_Demo {
+  umbrella header "Pods-TM CT Demo-umbrella.h"
+
+  export *
+  module * { export * }
+}

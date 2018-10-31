@@ -1,0 +1,6 @@
+framework module Pods_TM_CT_DemoTests {
+  umbrella header "Pods-TM CT DemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
